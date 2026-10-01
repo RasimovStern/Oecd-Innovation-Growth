@@ -1,0 +1,38 @@
+Country,observations,mape,group
+Australia,1,0.0,insufficient_data
+Switzerland,5,0.0116,high
+United States,12,0.0168,high
+Germany,12,0.0227,high
+Denmark,12,0.028,high
+Austria,12,0.0283,high
+Japan,12,0.0287,high
+"Korea, Rep,",12,0.031,high
+Belgium,12,0.0317,high
+Luxembourg,12,0.0319,high
+Ireland,6,0.0323,high
+Hungary,12,0.0324,high
+United Kingdom,8,0.0333,high
+Netherlands,12,0.0343,high
+Sweden,12,0.0392,high
+France,12,0.0428,high
+Italy,11,0.0442,high
+Finland,12,0.0448,high
+Slovenia,5,0.0483,high
+Poland,12,0.0506,medium
+Slovak Republic,12,0.0567,medium
+Colombia,5,0.0611,medium
+New Zealand,6,0.0612,medium
+Spain,12,0.063,medium
+Canada,12,0.0631,medium
+Norway,12,0.0741,medium
+Estonia,12,0.0764,medium
+Greece,11,0.0788,medium
+Czechia,12,0.0818,medium
+Chile,12,0.0861,medium
+Portugal,12,0.0943,medium
+Mexico,12,0.096,medium
+Lithuania,12,0.108,low
+Latvia,12,0.1095,low
+Costa Rica,11,0.1248,low
+Turkiye,12,0.1274,low
+Iceland,5,0.1353,low

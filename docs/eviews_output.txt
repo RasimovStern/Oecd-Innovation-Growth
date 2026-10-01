@@ -1,0 +1,32 @@
+Original EViews 10 output reported in the thesis (Figure 3)
+
+Estimation command:
+LS(CX=F) GDP/POP C HTEX/LABOR IMP/POP MVA*MEDHTMVA/100 LOG(PATENTRE) EXP01/LABOR LOG(PATENTNONRE) RDEXP*GDP/100 RDPOP/LABOR
+
+Dependent Variable: GDP/POP
+Method: Panel Least Squares
+Sample (adjusted): 2010 2021
+Periods included: 12
+Cross-sections included: 37
+Total panel (unbalanced) observations: 386
+
+Variable              Coefficient   Std. Error   t-Statistic   Prob.
+C                     46422.75      5488.563      8.458089     0.0000
+HTEX/LABOR            1.241924      0.291383      4.262174     0.0000
+IMP/POP              -0.497622      0.084412     -5.895190     0.0000
+MVA*MEDHTMVA/100      6.26E-08      1.20E-08      5.205333     0.0000
+LOG(PATENTRE)        -2172.586      701.7479     -3.095964     0.0021
+EXP01/LABOR           0.572588      0.049500     11.56743      0.0000
+LOG(PATENTNONRE)     -1757.572      293.1349     -5.995779     0.0000
+RDEXP*GDP/100         2.81E-08      8.46E-09      3.320142     0.0010
+RDPOP/LABOR          -997902.5      326039.1     -3.060684     0.0024
+
+Effects Specification: Cross-section fixed (dummy variables)
+
+R-squared            0.989661    Mean dependent var     37806.16
+Adjusted R-squared   0.988327    S.D. dependent var     24953.39
+S.E. of regression   2695.995    Akaike info criterion  18.74613
+Sum squared resid    2.48E+09    Schwarz criterion      19.20730
+Log likelihood      -3573.003    Hannan-Quinn criter.   18.92901
+F-statistic          741.8492    Durbin-Watson stat     0.881330
+Prob(F-statistic)    0.000000
